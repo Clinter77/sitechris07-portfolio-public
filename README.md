@@ -30,7 +30,7 @@
 📊 **Statistiques live**  
 - 100 dernières visites (base **Supabase PostgreSQL**)  
 - Actualisation automatique toutes les 30s  
-- Vue Dashboard privée /stats  
+- Vue Dashboard privée pour l'affichage des statistiques 
 
 📬 **Contact**  
 - Formulaire sécurisé (**Formspree**)  
