@@ -101,8 +101,6 @@ Ce dépôt public sert de **présentation technique et visuelle** pour les recru
 ## 📈 Liens techniques
 
 - 🌐 **Démo live** → [sitechris07.vercel.app](https://sitechris07.vercel.app)  
-- 🛠 **CI/CD Actions** → [github.com/Clinter77/sitechris07/actions](https://github.com/Clinter77/sitechris07/actions)  
-- 🔒 **Releases** → [v2.0.0 "DevSecOps"](https://github.com/Clinter77/sitechris07/releases/tag/v2.0.0)  
 - ⚙️ **Dependabot updates** → [github.com/Clinter77/sitechris07/network/updates](https://github.com/Clinter77/sitechris07/network/updates)
 
 ---
