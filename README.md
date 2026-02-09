@@ -1,101 +1,116 @@
-# SiteChris07 – Portfolio Angular
+# SiteChris07 – Portfolio Angular 20 🚀
+**v2.0.0 — Fullstack + DevSecOps**
 
-![CI](https://github.com/Clinter77/sitechris07/actions/workflows/angular-ci.yml/badge.svg)
-
-Portfolio personnel développé avec **Angular**, mettant en avant mes projets, mes compétences techniques et mes pratiques modernes de développement frontend (CI/CD, qualité de code, sécurité).
-
-Le site est conçu pour être :
-- ⚡ Rapide
-- 📱 Responsive
-- 🌙 Compatible Dark / Light mode
-- 🔒 Maintenable et sécurisé
-- 🚀 Déployé automatiquement
+![Angular 20 LTS](https://img.shields.io/badge/Angular-20.3.13-LTS-brightgreen)
+![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
+![Security 100%](https://img.shields.io/badge/Security-100%25-10b981)
+![Release](https://img.shields.io/github/v/release/Clinter77/sitechris07?color=1976d2)
 
 ---
 
 ## 🌐 Démo en ligne
+> Déploiement automatique via **Vercel** après pipeline **DevSecOps validé**.
 
-👉 https://sitechris07.vercel.app  
-*(déploiement automatique via Vercel)*
+👉 [https://sitechris07.vercel.app](https://sitechris07.vercel.app)  
+🔒 Version 100% sécurisée et à jour (Angular 20 LTS)
 
 ---
 
 ## ✨ Fonctionnalités principales
 
-- 🏠 **Page d’accueil**
-  - Carrousel de projets (Swiper)
-  - Navigation fluide vers les détails
+🏠 **Accueil professionnel**  
+- Présentation du parcours et de mes valeurs : résilience et persévérance, adaptabilité, professionnalisme, montée en compétences continue, transparence (honnêteté et clarté)
+- Section projets + liens directs  
+- Thème clair/sombre et design responsive  
 
-- 📁 **Projets**
-  - Liste complète des projets
-  - Page de détails par projet
-  - Navigation précédent / suivant
+📁 **Projets**  
+- Liste dynamique des projets développés  
+- Navigation fluide via Angular Router  
+- UI moderne et épurée  
 
-- 📬 **Contact**
-  - Email direct
-  - Lien LinkedIn
+📊 **Statistiques live**  
+- 100 dernières visites (base **Supabase PostgreSQL**)  
+- Actualisation automatique toutes les 30s  
+- Vue Dashboard privée /stats  
 
-- 🎨 **UI / UX**
-  - Angular Material
-  - Dark / Light theme persistant
-  - Responsive mobile / desktop
+📬 **Contact**  
+- Formulaire sécurisé (**Formspree**)  
+- Protections XSS / SQLi / CSRF actives  
+- Limiteur de requêtes (rate-limit 30s)  
+
+🎨 **UI / UX**  
+- **Angular Material** + **Dark/Light theme persistants**  
+- **Responsive mobile / desktop**  
+- Performances optimisées pour production  
 
 ---
 
 ## 🧰 Stack technique
 
-### Frontend
-- **Angular 20**
-- **TypeScript**
-- **Angular Material**
-- **Swiper (Web Components)**
-- **RxJS**
+**Frontend**  
+- Angular 20 LTS (standalone components)  
+- TypeScript, RxJS, Angular Material  
+- Swiper (carrousel responsive)  
 
-### Qualité & Outillage
-- Standalone Components
-- Architecture DRY (source de données unique)
-- Routing Angular
-- Lazy loading (prévu)
-- Thème stocké côté client (RGPD friendly)
+**Backend & Services**  
+- Supabase (PostgreSQL)  
+- Formspree (formulaire sécurisé)  
+- Vercel Edge Functions (API temps réel)
+
+**DevSecOps**  
+- GitHub Actions (CI/CD automatisé)  
+- Semgrep → analyse XSS Angular  
+- Trivy → scan npm (deps vulnérables HIGH)  
+- GitLeaks → détection de secrets  
+- Dependabot → mises à jour hebdomadaires  
 
 ---
 
 ## 🔁 CI / CD
 
-### GitHub Actions
-Pipeline automatique déclenché sur :
-- `push`
-- `pull_request`
+Pipeline GitHub Actions déclenché sur :
+- **push / pull_request**
 
-Étapes du pipeline :
-1. 📦 Installation des dépendances
-2. 🔍 Lint (Angular / ESLint-ready)
-3. 🧪 Tests unitaires (ChromeHeadless)
-4. 🏗 Build de production
+Étapes du workflow :
+- 🧩 Installation des dépendances  
+- 🔍 Lint / Tests unitaires (ChromeHeadless)  
+- 🏗 Build de production  
+- 🔒 Audit sécurité (Semgrep, Trivy, GitLeaks)  
+- 🚀 Déploiement automatique sur Vercel  
 
-👉 Le badge CI ci-dessus reflète l’état du pipeline.
-
-### Dependabot
-- Surveillance automatique des dépendances
-- PR de mise à jour sécurisées
-- Prévention des vulnérabilités connues (CVE)
+✔️ Durée totale du pipeline : ~1min45  
+✔️ Tous les jobs verts et validés (lint, test, build, sécurité, secrets)
 
 ---
 
-## 🚀 Déploiement
+## 🧠 Résumé technique & sécurité
 
-- **Vercel**
-- Déploiement automatique après build réussi
-- Optimisé pour Angular SPA
+Le **code complet du projet** est hébergé dans un **repository privé** (non accessible publiquement).  
+Ce dépôt public sert de **présentation technique et visuelle** pour les recruteurs, les partenaires, et autres visiteurs de mon site.
+
+**Caractéristiques clés :**  
+- 🔒 Intégration DevSecOps (CI/CD + SAST + SCA)  
+- 🧩 Stack Angular 20 LTS + Supabase + Vercel Edge  
+- 🧮 Suivi en temps réel des visites  
+- 🧠 Lint, tests unitaires, build et audit automatisés  
+- ✅ Sécurité XSS / CSRF / SQLi validée  
+
+> Accès au code source complet possible sur demande professionnelle.
 
 ---
 
-## 🛠️ Installation locale
+## 📈 Liens techniques
 
-### Prérequis
-- Node.js ≥ 20
-- Angular CLI ≥ 20
+- 🌐 **Démo live** → [sitechris07.vercel.app](https://sitechris07.vercel.app)  
+- 🛠 **CI/CD Actions** → [github.com/Clinter77/sitechris07/actions](https://github.com/Clinter77/sitechris07/actions)  
+- 🔒 **Releases** → [v2.0.0 "DevSecOps"](https://github.com/Clinter77/sitechris07/releases/tag/v2.0.0)  
+- ⚙️ **Dependabot updates** → [github.com/Clinter77/sitechris07/network/updates](https://github.com/Clinter77/sitechris07/network/updates)
 
-### Installation
-```bash
-npm install
+---
+
+## 👨‍💻 À propos
+
+Ce projet illustre ma démarche de **développeur fullstack moderne**, intégrant la **qualité**, la **sécurité** et l'**automatisation** dès la conception.  
+Il est conçu comme un **portfolio professionnel** et une **preuve de compétences DevSecOps** en environnement Angular 20.
+
+> Projet personnel, développé et maintenu en 2026 — *SiteChris07 v2.0.0 – Portfolio Fullstack Angular + DevSecOps Pipeline.*
