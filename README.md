@@ -1,10 +1,8 @@
 # SiteChris07 – Portfolio Angular 20 🚀
 **v2.0.0 — Fullstack + DevSecOps**
 
-![Angular 20 LTS](https://img.shields.io/badge/Angular-20.3.13-LTS-brightgreen)
 ![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
 ![Security 100%](https://img.shields.io/badge/Security-100%25-10b981)
-![Release](https://img.shields.io/github/v/release/Clinter77/sitechris07?color=1976d2)
 
 ---
 
