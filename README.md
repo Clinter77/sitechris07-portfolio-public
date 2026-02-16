@@ -55,7 +55,6 @@ Framework<br>
 ### 🛡️ **DevSecOps - Pipeline CI/CD (3 jobs // 1min45)**
 
 ```
-Code YAML : 
 QUALITY     🔧 Lint / Tests / Build                      → ✅
 SECURITY    🔍 Semgrep (SAST) + Trivy (SCA npm HIGH)     → ✅
 GitLeaks    🕵️ Secrets detection                         → ✅
