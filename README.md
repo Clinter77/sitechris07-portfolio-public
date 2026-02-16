@@ -72,10 +72,9 @@ Commits chore(deps)	Préfixe standardisé pour commits auto	Historique Git lisib
 Pourquoi ce pipeline ?
 
     Qualité : linting, tests et build valident chaque changement.
-
     Sécurité : scans SAST/SCA détectent vulnérabilités et secrets.
-
     Maintenance : Dependabot garde les dépendances à jour.
+    
     Résultat : déploiement confiant, zéro surprise en production.
 
 🧰 Stack technique
@@ -84,22 +83,21 @@ Frontend
 Angular 20 LTS • TypeScript • RxJS • Angular Material • Swiper
 
 Backend & Services
-Supabase PostgreSQL • Formspree • Vercel Edge Functions
+Supabase PostgreSQL • Formspree • Vercel
 
 DevSecOps
 GitHub Actions • Semgrep • Trivy • GitLeaks • Dependabot
+
 📈 Liens techniques & Contact
 
     🌐 Démo : sitechris07.vercel.app
-
-    🔄 Dependabot : github.com/Clinter77/sitechris07/network/updates
-
+    🔄 Dependabot intégré
     💼 Code source complet disponible sur demande professionnelle
 
 👨‍💻 À propos
 
 Projet personnel démontrant une approche fullstack moderne : qualité, sécurité et automatisation dès la conception.
-Preuve de compétences DevSecOps en Angular 20 pour recruteurs et tech leads.
+Preuve de compétences DevSecOps en Angular 20 pour recruteurs, managers et tech leads.
 
     SiteChris07 v2.0.0 – Portfolio Fullstack Angular + DevSecOps Pipeline (2026)
 
