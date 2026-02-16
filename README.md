@@ -1,114 +1,101 @@
-# SiteChris07 – Portfolio Angular 20 🚀
-**v2.0.0 — Fullstack + DevSecOps**
+# SiteChris07 – Portfolio Angular 20 **v2.0.0** 🔒🚀
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![CI/CD DevSecOps](https://github.com/Clinter77/sitechris07/actions/workflows/angular-ci.yml/badge.svg)
 ![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
 ![Security](https://img.shields.io/badge/Security-100%25-10b981)
 
----
+**Portfolio professionnel Angular 20.3.13 (LTS)** avec **DevSecOps industrialisé v2.0.0** : CI/CD + SAST + SCA + sécurité production.
 
-## 🌐 Démo en ligne
-> Déploiement automatique via **Vercel** après pipeline **DevSecOps validé**.
+CI/CD = Continuous Integration / Continuous Delivery (Continuous Delivery and Continuous Deployment)
+SAST = Static Application Security Testing (Analyse Statique de Sécurité des Applications)
+SCA = Software Composition Analysis (Analyse de Composition Logicielle)
 
-👉 [https://sitechris07.vercel.app](https://sitechris07.vercel.app)  
-🔒 Version 100% sécurisée et à jour (Angular 20 LTS)
-
----
-
-## ✨ Fonctionnalités principales
-
-🏠 **Accueil professionnel**  
-- Présentation du parcours et de mes valeurs : résilience et persévérance, adaptabilité, professionnalisme, montée en compétences continue, transparence (honnêteté et clarté)
-- Section projets + liens directs  
-- Thème clair/sombre et design responsive  
-
-📁 **Projets**  
-- Liste dynamique des projets développés  
-- Navigation fluide via Angular Router  
-- UI moderne et épurée  
-
-📊 **Statistiques live**  
-- 100 dernières visites (base **Supabase PostgreSQL**)  
-- Actualisation automatique toutes les 30s  
-- Vue Dashboard privée pour l'affichage des statistiques 
-
-📬 **Contact**  
-- Formulaire sécurisé (**Formspree**)  
-- Protections XSS / SQLi / CSRF actives  
-- Limiteur de requêtes (rate-limit 30s)  
-
-🎨 **UI / UX**  
-- **Angular Material** + **Dark/Light theme persistants**  
-- **Responsive mobile / desktop**  
-- Performances optimisées pour production  
+> *Mini-organisation individuelle* : identité corporate, projets structurés, pipeline **CI/CD + DevSecOps**.
 
 ---
 
-## 🧰 Stack technique
-
-**Frontend**  
-- Angular 20 LTS (standalone components)  
-- TypeScript, RxJS, Angular Material  
-- Swiper (carrousel responsive)  
-
-**Backend & Services**  
-- Supabase (PostgreSQL)  
-- Formspree (formulaire sécurisé)  
-- Vercel Edge Functions (API temps réel)
-
-**DevSecOps**  
-- GitHub Actions (CI/CD automatisé)  
-- Semgrep → analyse XSS Angular  
-- Trivy → scan npm (deps vulnérables HIGH)  
-- GitLeaks → détection de secrets  
-- Dependabot → mises à jour hebdomadaires  
+## 🌐 [Démo Live](https://sitechris07.vercel.app)
+**Déploiement automatique Vercel** après pipeline **DevSecOps 100% validé** ✅
 
 ---
 
-## 🔁 CI / CD
+## 🚀 **Release v2.0.0** – *DevSecOps Industrialisé* (09/02/2026)
 
-Pipeline GitHub Actions déclenché sur :
-- **push / pull_request**
+### ✨ **Fonctionnalités principales**
 
-Étapes du workflow :
-- 🧩 Installation des dépendances  
-- 🔍 Lint / Tests unitaires (ChromeHeadless)  
-- 🏗 Build de production  
-- 🔒 Audit sécurité (Semgrep, Trivy, GitLeaks)  
-- 🚀 Déploiement automatique sur Vercel  
+🏠 **HOME PROFESSIONNEL**  
+├── Parcours : CAP → Compta → IT réseaux et systèmes → Développeur Fullstack  
+├── Valeurs : **Résilience et persévérance, Adaptabilité, Professionnalisme, Montée en compétences continue, Transparence**  
+├── Stack technique + DevSecOps showcase (vitrine/démonstration)
+└── UI/UX production (dark/light theme, responsive)
 
-✔️ Durée totale du pipeline : ~1min45  
-✔️ Tous les jobs verts et validés (lint, test, build, sécurité, secrets)
+UI = User Interface → Interface Utilisateur
+UX = User Experience → Expérience Utilisateur
 
----
+📊 **COMPTEUR VISITES LIVE**  
+├── **Supabase PostgreSQL** (100+ visites trackées)  
+├── Angular Signals + auto-refresh 30s  
+├── 3 endpoints : `/`, `/projects`, `/contact`  
+└── **Dashboard privé** (100 dernières visites et plus)
 
-## 🧠 Résumé technique & sécurité
+✉️ **CONTACT FORMULAIRE**  
+├── **Formspree** (XSS/SQLi/CSRF protection)  
+├── Rate limiting 500/jour  
+└── Backend sécurisé (SOC2/GDPR)
 
-Le **code complet du projet** est hébergé dans un **repository privé** (non accessible publiquement).  
-Ce dépôt public sert de **présentation technique et visuelle** pour les recruteurs, les partenaires, et autres visiteurs de mon site.
+📁 **PROJETS**  
+├── Liste dynamique des projets  
+├── Navigation fluide (Angular Router)  
+└── UI moderne et épurée
 
-**Caractéristiques clés :**  
-- 🔒 Intégration DevSecOps (CI/CD + SAST + SCA)  
-- 🧩 Stack Angular 20 LTS + Supabase + Vercel Edge  
-- 🧮 Suivi en temps réel des visites  
-- 🧠 Lint, tests unitaires, build et audit automatisés  
-- ✅ Sécurité XSS / CSRF / SQLi validée  
+### 🛡️ **DevSecOps Pipeline (3 jobs // 1min45)**
 
-> Accès au code source complet possible sur demande professionnelle.
+```yaml
+QUALITY     🔧 Lint / Tests / Build                      → ✅
+SECURITY    🔍 Semgrep (SAST) + Trivy (SCA npm HIGH)     → ✅
+GitLeaks    🕵️ Secrets detection                         → ✅
+Dependabot  🔄 npm auto-updates                          → ✅ Weekly
 
----
+🔄 Gestion des dépendances
+Fonctionnalité	Description	Bénéfice
+Scan hebdomadaire	Dependabot analyse package.json chaque semaine	Dépendances à jour, failles zero-day corrigées
+Limite 5 PR	Maximum 5 pull requests ouvertes simultanément	Pas de bruit, flux de travail maîtrisé
+Commits chore(deps)	Préfixe standardisé pour commits auto	Historique Git lisible, Conventional Commits
 
-## 📈 Liens techniques
+    Valeur ajoutée : Sécurité continue + maintenance automatisée = zéro dette technique.
 
-- 🌐 **Démo live** → [sitechris07.vercel.app](https://sitechris07.vercel.app)  
-- ⚙️ **Dependabot updates** → [github.com/Clinter77/sitechris07/network/updates](https://github.com/Clinter77/sitechris07/network/updates)
+Pourquoi ce pipeline ?
 
----
+    Qualité : linting, tests et build valident chaque changement.
 
-## 👨‍💻 À propos
+    Sécurité : scans SAST/SCA détectent vulnérabilités et secrets.
 
-Ce projet illustre ma démarche de **développeur fullstack moderne**, intégrant la **qualité**, la **sécurité** et l'**automatisation** dès la conception.  
-Il est conçu comme un **portfolio professionnel** et une **preuve de compétences DevSecOps** en environnement Angular 20.
+    Maintenance : Dependabot garde les dépendances à jour.
+    Résultat : déploiement confiant, zéro surprise en production.
 
-> Projet personnel, développé et maintenu en 2026 — *SiteChris07 v2.0.0 – Portfolio Fullstack Angular + DevSecOps Pipeline.*
+🧰 Stack technique
+
+Frontend
+Angular 20 LTS • TypeScript • RxJS • Angular Material • Swiper
+
+Backend & Services
+Supabase PostgreSQL • Formspree • Vercel Edge Functions
+
+DevSecOps
+GitHub Actions • Semgrep • Trivy • GitLeaks • Dependabot
+📈 Liens techniques & Contact
+
+    🌐 Démo : sitechris07.vercel.app
+
+    🔄 Dependabot : github.com/Clinter77/sitechris07/network/updates
+
+    💼 Code source complet disponible sur demande professionnelle
+
+👨‍💻 À propos
+
+Projet personnel démontrant une approche fullstack moderne : qualité, sécurité et automatisation dès la conception.
+Preuve de compétences DevSecOps en Angular 20 pour recruteurs et tech leads.
+
+    SiteChris07 v2.0.0 – Portfolio Fullstack Angular + DevSecOps Pipeline (2026)
+
