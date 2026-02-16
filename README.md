@@ -63,11 +63,13 @@ undefined
 
 🔄 Gestion des dépendances
 
-| Command | Description |
 | Fonctionnalité | Description | Bénéfice |
+|----------------|-------------|----------|
 | `Scan hebdomadaire` | Dependabot analyse package.json chaque semaine | Dépendances à jour, failles zero-day corrigées |
-| `Limite 5 PR	Maximum` | 5 pull requests ouvertes simultanément au maximum | Pas de bruit, flux de travail maîtrisé |
+| `Limite 5 PR maximum` | 5 pull requests ouvertes simultanément au maximum | Pas de bruit, flux de travail maîtrisé |
 | `Commits chore(deps)` | Préfixe standardisé pour commits auto | Historique Git lisible, Conventional Commits |
+
+**Valeur ajoutée** : Sécurité continue + maintenance automatisée = zéro dette technique.
 
  -> Valeur ajoutée : Sécurité continue + maintenance automatisée = zéro dette technique.
 
