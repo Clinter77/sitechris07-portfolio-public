@@ -1,11 +1,13 @@
 # SiteChris07 – Portfolio Angular 20 **v2.0.0** 🔒🚀
 
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![CI/CD DevSecOps](https://github.com/Clinter77/sitechris07/actions/workflows/angular-ci.yml/badge.svg)
 ![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
 ![Security](https://img.shields.io/badge/Security-100%25-10b981)
 
 **Portfolio professionnel Angular 20.3.13 (LTS)** avec **DevSecOps industrialisé v2.0.0** : CI/CD + SAST + SCA + sécurité production.
+
+Framework Angular :
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 - CI/CD = Continuous Integration / Continuous Delivery (Continuous Delivery and Continuous Deployment)
 - SAST = Static Application Security Testing (Analyse Statique de Sécurité des Applications)
