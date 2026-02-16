@@ -7,9 +7,9 @@
 
 **Portfolio professionnel Angular 20.3.13 (LTS)** avec **DevSecOps industrialisé v2.0.0** : CI/CD + SAST + SCA + sécurité production.
 
-CI/CD = Continuous Integration / Continuous Delivery (Continuous Delivery and Continuous Deployment)
-SAST = Static Application Security Testing (Analyse Statique de Sécurité des Applications)
-SCA = Software Composition Analysis (Analyse de Composition Logicielle)
+- CI/CD = Continuous Integration / Continuous Delivery (Continuous Delivery and Continuous Deployment)
+- SAST = Static Application Security Testing (Analyse Statique de Sécurité des Applications)
+- SCA = Software Composition Analysis (Analyse de Composition Logicielle)
 
 > *Mini-organisation individuelle* : identité corporate, projets structurés, pipeline **CI/CD + DevSecOps**.
 
@@ -30,8 +30,8 @@ SCA = Software Composition Analysis (Analyse de Composition Logicielle)
 ├── Stack technique + DevSecOps showcase (vitrine/démonstration)
 └── UI/UX production (dark/light theme, responsive)
 
-UI = User Interface → Interface Utilisateur
-UX = User Experience → Expérience Utilisateur
+- UI = User Interface → Interface Utilisateur
+- UX = User Experience → Expérience Utilisateur
 
 📊 **COMPTEUR VISITES LIVE**  
 ├── **Supabase PostgreSQL** (100+ visites trackées)  
