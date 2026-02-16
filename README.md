@@ -30,8 +30,8 @@ Framework<br>
 🏠 **HOME PROFESSIONNEL**  
 ├── Parcours : CAP → Compta → IT réseaux et systèmes → Développeur Fullstack  
 ├── Valeurs : **Résilience et persévérance, Adaptabilité, Professionnalisme, Montée en compétences continuee**  
-├── Stack technique et DevSecOps showcase (vitrine/démonstration)
-├──  UI/UX production (dark/light theme, responsive)
+├── Stack technique et DevSecOps showcase (vitrine/démonstration)  
+└── UI/UX production (dark/light theme, responsive)
 
 - UI = User Interface → Interface Utilisateur
 - UX = User Experience → Expérience Utilisateur
