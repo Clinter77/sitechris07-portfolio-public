@@ -56,7 +56,7 @@ QUALITY     🔧 Lint / Tests / Build                      → ✅
 SECURITY    🔍 Semgrep (SAST) + Trivy (SCA npm HIGH)     → ✅
 GitLeaks    🕵️ Secrets detection                         → ✅
 Dependabot  🔄 npm auto-updates                          → ✅ Weekly
-```
+undefined
 
 🔄 Gestion des dépendances
 Fonctionnalité	Description	Bénéfice
