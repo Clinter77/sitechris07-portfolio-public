@@ -51,12 +51,15 @@ UX = User Experience → Expérience Utilisateur
 
 ### 🛡️ **DevSecOps - Pipeline CI/CD (3 jobs // 1min45)**
 
-```yaml
+```
+Code YAML : 
 QUALITY     🔧 Lint / Tests / Build                      → ✅
 SECURITY    🔍 Semgrep (SAST) + Trivy (SCA npm HIGH)     → ✅
 GitLeaks    🕵️ Secrets detection                         → ✅
 Dependabot  🔄 npm auto-updates                          → ✅ Weekly
 undefined
+```
+
 
 🔄 Gestion des dépendances
 Fonctionnalité	Description	Bénéfice
