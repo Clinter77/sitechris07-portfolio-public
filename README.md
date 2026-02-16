@@ -52,7 +52,7 @@ Framework<br>
 ├── Navigation fluide (Angular Router)  
 └── UI moderne et épurée
 
-### 🛡️ **DevSecOps - Pipeline CI/CD (3 jobs // 1min45)**
+### 🛡️ **DevSecOps - Pipeline CI/CD (3 jobs / 1min45)**
 
 ```
 QUALITY     🔧 Lint / Tests / Build                      → ✅
