@@ -49,13 +49,14 @@ UX = User Experience → Expérience Utilisateur
 ├── Navigation fluide (Angular Router)  
 └── UI moderne et épurée
 
-### 🛡️ **DevSecOps Pipeline (3 jobs // 1min45)**
+### 🛡️ **DevSecOps - Pipeline CI/CD (3 jobs // 1min45)**
 
 ```yaml
 QUALITY     🔧 Lint / Tests / Build                      → ✅
 SECURITY    🔍 Semgrep (SAST) + Trivy (SCA npm HIGH)     → ✅
 GitLeaks    🕵️ Secrets detection                         → ✅
 Dependabot  🔄 npm auto-updates                          → ✅ Weekly
+```
 
 🔄 Gestion des dépendances
 Fonctionnalité	Description	Bénéfice
