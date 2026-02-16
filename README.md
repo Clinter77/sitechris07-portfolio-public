@@ -6,7 +6,8 @@
 
 **Portfolio professionnel Angular 20.3.13 (LTS)** avec **DevSecOps industrialisé v2.0.0** : CI/CD + SAST + SCA + sécurité production.
 
-Framework<br><br>
+Framework<br>
+
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
 - CI/CD = Continuous Integration / Continuous Delivery (Continuous Delivery and Continuous Deployment)
