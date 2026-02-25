@@ -1,4 +1,4 @@
-# SiteChris07 – Portfolio Angular 20 **v2.0.0** 🔒🚀
+# SiteChris07 – Portfolio Angular 20 **v2.0.0** 🔒
 
 ![CI/CD DevSecOps](https://github.com/Clinter77/sitechris07/actions/workflows/angular-ci.yml/badge.svg)
 ![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
