@@ -39,7 +39,7 @@ Framework<br>
 📊 **COMPTEUR VISITES LIVE**  
 ├── **Supabase PostgreSQL** (100 visites et + enregistrées - compteur enregistrant les Endpoints visités, le nombre de visites, visites par Endpoints, visites totales, et les dates-heures de ces visites)  
 ├── Angular Signals + auto-refresh 30s  
-├── 4 endpoints : `/`, `/contact`, `/projects`, `/projects/:id` (selon identifiants des projets)
+├── 4 endpoints : `/`, `/contact`, `/projects`, `/projects/:id` (selon identifiants des projets)  
 ├── Endpoint `/projects/0` -> A propos de ce site
 └── **Dashboard privé** (100 dernières visites et + enregistrées)
 
