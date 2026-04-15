@@ -1,4 +1,4 @@
-# SiteChris07 – Portfolio Angular 20 **v2.0.0** 
+# SiteChris07 – Portfolio Angular 20 **v2.0.0** 🔒 (sécurisé)
 
 ![CI/CD DevSecOps](https://github.com/Clinter77/sitechris07/actions/workflows/angular-ci.yml/badge.svg)
 ![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
@@ -37,10 +37,10 @@ Framework<br>
 - UX = User Experience → Expérience Utilisateur
 
 📊 **COMPTEUR VISITES LIVE**  
-├── **Supabase PostgreSQL** (100+ visites trackées)  
+├── **Supabase PostgreSQL** (100 visites et + enregistrées - compteur enregistrant les Endpoints visités, le nombre de visites, visites par Endpoints, visites totales, et les dates-heures de ces visites)  
 ├── Angular Signals + auto-refresh 30s  
-├── 3 endpoints : `/`, `/projects`, `/contact`  
-└── **Dashboard privé** (100 dernières visites et plus)
+├── 3 endpoints : `/`, `/projects`, `/contact`, `/projects/0` (A propos de ce site) 
+└── **Dashboard privé** (100 dernières visites et + enregistrées)
 
 ✉️ **CONTACT FORMULAIRE**  
 ├── **Formspree** (XSS/SQLi/CSRF protection)  
@@ -60,7 +60,6 @@ SECURITY    🔍 Semgrep (SAST) + Trivy (SCA npm HIGH)     → ✅
 GitLeaks    🕵️ Secrets detection                         → ✅
 Dependabot  🔄 npm auto-updates                          → ✅ Weekly
 ```
-
 
 🔄 Gestion des dépendances
 
@@ -103,4 +102,3 @@ Projet personnel démontrant une approche fullstack moderne : qualité, sécurit
 Preuve de compétences DevSecOps en Angular 20 pour recruteurs, managers et tech leads.
 
     SiteChris07 v2.0.0 – Portfolio Fullstack Angular + DevSecOps Pipeline (2026)
-
