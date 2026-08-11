@@ -4,7 +4,7 @@
 ![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
 ![Security](https://img.shields.io/badge/Security-DevSecOps%20validated-10b981)
 
-**Portfolio professionnel Angular 22.1.0 avec **chaîne DevSecOps industrialisée v2.0.0** : CI/CD + SAST + SCA + contrôles de sécurité applicative.
+Portfolio professionnel Angular 22.1.0 avec **chaîne DevSecOps industrialisée v2.0.0** : CI/CD + SAST + SCA + contrôles de sécurité applicative.
 
 Framework<br>
 
