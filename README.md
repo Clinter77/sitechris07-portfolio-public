@@ -1,25 +1,25 @@
-# SiteChris07 – Portfolio Fullstack Angular 22 & DevSecOps **v2.0.0** 🔒 (sécurisé)
+# SiteChris07 – Portfolio Fullstack Angular 22 & DevSecOps & CI/CD **v2.0.0** 🔒 (sécurisé)
 
 ![CI/CD DevSecOps](https://github.com/Clinter77/sitechris07/actions/workflows/angular-ci.yml/badge.svg)
 ![Dependabot](https://img.shields.io/badge/Dependabot-enabled-brightgreen)
 ![Security](https://img.shields.io/badge/Security-DevSecOps%20validated-10b981)
 
-Portfolio professionnel Angular 22.1.0 avec **chaîne DevSecOps industrialisée v2.0.0** : CI/CD + SAST + SCA + contrôles de sécurité applicative.
+## Portfolio professionnel Angular 22.1.0 avec **chaîne DevSecOps industrialisée v2.0.0** : CI/CD + SAST + SCA + contrôles de sécurité applicative.
 
 Framework<br>
 
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 
-- CI/CD = Continuous Integration / Continuous Delivery (Continuous Delivery and Continuous Deployment)
+- CI/CD = Continuous Integration / Continuous Delivery (Continuous Delivery - Continuous Deployment)
 - SAST = Static Application Security Testing (Analyse Statique de Sécurité des Applications)
 - SCA = Software Composition Analysis (Analyse de Composition Logicielle)
 
-> *Mini-organisation individuelle* : identité corporate, projets structurés, pipeline **CI/CD + DevSecOps**.
+> *Mini-organisation individuelle* : identity corporate, projets structurés, pipeline **CI/CD + DevSecOps**.
 
 ---
 
 ## 🌐 [Démo Live](https://sitechris07.vercel.app)
-**Déploiement automatique Vercel après validation des Quality Gate et Security Gate** ✅
+Déploiement automatique Vercel après validation des **Quality Gate et Security Gate** ✅
 
 ---
 
@@ -28,24 +28,23 @@ Framework<br>
 ### ✨ **Fonctionnalités principales**
 
 🏠 **HOME PROFESSIONNEL**  
-├── Parcours : CAP → Compta → IT réseaux et systèmes → Développeur Fullstack  
-├── Valeurs : **Résilience et persévérance, Adaptabilité, Professionnalisme, Montée en compétences continues**  
+├── Parcours : CAP → Comptabilité gestion → IT réseaux et systèmes → Développeur Fullstack  
+├── Valeurs : **Professionnalisme, Autonomie,  Adaptabilité, Résilience et persévérance, Montées en compétences continues**  
 ├── Présentation de la stack technique et des pratiques DevSecOps  
-└── UI/UX production (dark/light theme, responsive)
+└── UI/UX production (dark / light theme, responsive)
 
 - UI = User Interface → Interface Utilisateur
 - UX = User Experience → Expérience Utilisateur
 
-📊 **COMPTEUR VISITES LIVE**  
-├── **Supabase PostgreSQL** (plus de 100 visites enregistrées : endpoints visités, volumes, timestamps et statistiques)  
+├── **Supabase PostgreSQL** (plusieurs centaines de visites enregistrées : endpoints visités, volumes, timestamps et statistiques)  
 ├── Angular Signals + auto-refresh 30s  
 ├── 4 endpoints : `/`, `/contact`, `/projects`, `/projects/:id` (selon identifiants des projets)  
-├── Endpoint `/projects/0` -> A propos de ce site  
-└── **Dashboard privé** (100 dernières visites et + enregistrées)
+├── exemple d'Endpoint `/projects/0` -> A propos de ce site  
+└── **Dashboard privé** (plus de 700 visites enregistrées actuellement)
 
 ✉️ **CONTACT FORMULAIRE**  
-├── **Formspree** (protection côté service contre les attaques courantes)
-├── Rate limiting 500/jour
+├── `Formspree` (protection côté service contre les attaques courantes)  
+├── Rate limiting 500 / jour  
 └── Backend formulaire externalisé sécurisé
 
 📁 **PROJETS**  
@@ -69,8 +68,6 @@ Dependabot  🔄 npm auto-updates                          → ✅ Weekly
 | `Scan hebdomadaire` | Dependabot analyse package.json chaque semaine | Dépendances à jour, réduction du risque lié aux vulnérabilités émergentes |
 | `Limite 5 PR maximum` | 5 pull requests ouvertes simultanément au maximum | Pas de bruit, flux de travail maîtrisé |
 | `Commits chore(deps)` | Préfixe standardisé pour commits auto | Historique Git lisible, Conventional Commits |
-
-
 
 Pourquoi ce pipeline ?
 
@@ -104,7 +101,7 @@ GitHub Actions • Semgrep • Trivy • GitLeaks • Dependabot
 ## 🏗️ Architecture
 
 ### Frontend
-- Angular 22 SPA
+- Angular 22 SPA (Single Page App)
 - Angular Router
 - Angular Material
 - Angular Signals
@@ -130,4 +127,3 @@ GitHub Actions • Semgrep • Trivy • GitLeaks • Dependabot
 Démonstrateur technique illustrant une approche DevSecOps appliquée au développement Angular moderne : qualité, sécurité applicative, automatisation et maintenance continue.
 
     SiteChris07 v2.0.0 – Portfolio Fullstack Angular + DevSecOps Pipeline (2026)
-
