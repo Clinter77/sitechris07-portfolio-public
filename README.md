@@ -36,11 +36,12 @@ Déploiement automatique Vercel après validation des **Quality Gate et Security
 - UI = User Interface → Interface Utilisateur
 - UX = User Experience → Expérience Utilisateur
 
+
 ├── **Supabase PostgreSQL** (plusieurs centaines de visites enregistrées : endpoints visités, volumes, timestamps et statistiques)  
 ├── Angular Signals + auto-refresh 30s  
 ├── 4 endpoints : `/`, `/contact`, `/projects`, `/projects/:id` (selon identifiants des projets)  
-├── exemple d'Endpoint `/projects/0` -> A propos de ce site  
-└── **Dashboard privé** (plus de 700 visites enregistrées actuellement)
+├── exemple d'Endpoint `/projects/18` -> A propos de ce site  
+└── **Dashboard privé** (plus de 800 visites enregistrées actuellement)
 
 ✉️ **CONTACT FORMULAIRE**  
 ├── `Formspree` (protection côté service contre les attaques courantes)  
@@ -68,6 +69,8 @@ Dependabot  🔄 npm auto-updates                          → ✅ Weekly
 | `Scan hebdomadaire` | Dependabot analyse package.json chaque semaine | Dépendances à jour, réduction du risque lié aux vulnérabilités émergentes |
 | `Limite 5 PR maximum` | 5 pull requests ouvertes simultanément au maximum | Pas de bruit, flux de travail maîtrisé |
 | `Commits chore(deps)` | Préfixe standardisé pour commits auto | Historique Git lisible, Conventional Commits |
+
+
 
 Pourquoi ce pipeline ?
 
