@@ -40,7 +40,7 @@ Déploiement automatique Vercel après validation des **Quality Gate et Security
 ├── Angular Signals + auto-refresh 30s  
 ├── 4 endpoints : `/`, `/contact`, `/projects`, `/projects/:id` (selon identifiants des projets)  
 ├── exemple d'Endpoint `/projects/18` -> A propos de ce site  
-└── **Dashboard privé** (plus de 940 visites enregistrées actuellement)
+└── **Dashboard privé** (980 visites enregistrées à ce jour)
 
 ✉️ **CONTACT FORMULAIRE**  
 ├── `Formspree` (protection côté service contre les attaques courantes)  
